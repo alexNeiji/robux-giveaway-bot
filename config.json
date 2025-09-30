@@ -1,0 +1,12 @@
+{
+  "token": "",
+  "prefix": "!",
+  "baseXp": 5,
+  "charsPerXp": 50,
+  "maxXpPerMessage": 15,
+  "minMessageLength": 8,
+  "messageCooldownMs": 20000,
+  "xpPerToken": 100,
+  "helpPerToken": 50,
+  "helpfulReactions": { "✅": 15, "👍": 7 }
+}
